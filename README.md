@@ -46,7 +46,7 @@ I'm **Edon**, an **Engineer**, **Security Researcher**, and **Innovator** with a
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/512px-PayPal.svg.png" width="150" alt="PayPal Logo" />
   <br>
-  <p>💙 Every contribution helps me dedicate more time to <strong>cybersecurity research, satellite security, and open-source projects.</strong></p>
+  <p>💙 Every contribution helps me dedicate more time to <strong>cybersecurity research, development, and open-source projects.</strong></p>
   <p>Your support is greatly appreciated! 🚀</p>
 </div>
 
