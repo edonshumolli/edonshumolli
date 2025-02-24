@@ -38,50 +38,32 @@ I'm **Edon**, an **Engineer**, **Security Researcher**, and **Innovator** with a
 
 ---
 
-## 0x02 > Support My Work
-<div align="left">
-  <a href="https://paypal.me/eshumolli">
-    <img src="https://img.shields.io/badge/Support%20Me%20on-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-  </a>
-  <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/512px-PayPal.svg.png" width="150" alt="PayPal Logo" />
-  <br>
-  <p>💙 Every contribution helps me dedicate more time to <strong>cybersecurity research, development, and open-source projects.</strong></p>
-  <p>Your support is greatly appreciated! 🚀</p>
-</div>
+## 0x02 > Support My Work  
+
+<div align="center">
+
+[![PayPal](https://img.shields.io/badge/Support%20Me%20on-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/eshumolli)  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/512px-PayPal.svg.png" width="150" alt="PayPal Logo"/>  
+
+💙 Every contribution helps me dedicate more time to **cybersecurity research, satellite security, and open-source projects.**  
+Your support is greatly appreciated! 🚀  
 
 ---
 
-### 💰 Crypto Donations
-<div align="left">
-  <table>
-    <thead>
-      <tr>
-        <th>Coin</th>
-        <th>Address</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=026" width="25"/> <strong>Bitcoin</strong></td>
-        <td><code>bc1qg0r8fjne64jm7heyh3yzlxhj55ur74alxwg4hp</code></td>
-      </tr>
-      <tr>
-        <td><img src="https://cryptologos.cc/logos/dogecoin-doge-logo.svg?v=026" width="25"/> <strong>Dogecoin</strong></td>
-        <td><code>D8YHk9WmEbjZXpTCgD3B4ZquevPw2xv8iQ</code></td>
-      </tr>
-      <tr>
-        <td><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=026" width="25"/> <strong>Ethereum</strong></td>
-        <td><code>0xD0c37e6dc1f774FfE011AA7D19fC8a9560548a28</code></td>
-      </tr>
-      <tr>
-        <td><img src="https://cryptologos.cc/logos/litecoin-ltc-logo.svg?v=026" width="25"/> <strong>Litecoin</strong></td>
-        <td><code>ltc1qjdxq8pkwp33xre0dzgxh5pkgt8w0ay7wl7fpec</code></td>
-      </tr>
-      <tr>
-        <td><img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=026" width="25"/> <strong>Solana</strong></td>
-        <td><code>7SD5n3YgvGQgiFutu11JwrAVy2eszBdYX2h5UU6eHVQr</code></td>
-      </tr>
-    </tbody>
-  </table>
+### 💰 Crypto Donations  
+
+<div align="center">
+
+<table>
+<tr>
+  <td align="center"><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=026" width="35"/><br>**Bitcoin**<br><code>bc1qg0r8fjne64jm7heyh3yzlxhj55ur74alxwg4hp</code></td>
+  <td align="center"><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=026" width="35"/><br>**Ethereum**<br><code>0xD0c37e6dc1f774FfE011AA7D19fC8a9560548a28</code></td>
+</tr>
+<tr>
+  <td align="center"><img src="https://cryptologos.cc/logos/litecoin-ltc-logo.svg?v=026" width="35"/><br>**Litecoin**<br><code>ltc1qjdxq8pkwp33xre0dzgxh5pkgt8w0ay7wl7fpec</code></td>
+  <td align="center"><img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=026" width="35"/><br>**Solana**<br><code>7SD5n3YgvGQgiFutu11JwrAVy2eszBdYX2h5UU6eHVQr</code></td>
+</tr>
+</table>
+
 </div>
