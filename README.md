@@ -31,56 +31,7 @@
 
 ---
 
-
-
-## 🚀 0x02 > Special Thanks to My Partners  
-
-<div align="center">
-
-<table>
-<tr>
-  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Seal_of_the_United_States_Department_of_Defense.svg" width="100"/></td>
-  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg" width="100"/></td>
-  <td align="center"><img src="https://cdn.prod.website-files.com/664e1cfdaf0f190ac9bb6e1e/66697fa864d68856e93d8b8e_iqtlogo400150.png" width="140"/></td>
-  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Razer_snake_logo.svg/1200px-Razer_snake_logo.svg.png" width="100"/></td>
-  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rolls-Royce_Motor_Cars_logo.svg/480px-Rolls-Royce_Motor_Cars_logo.svg.png" width="90"/></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/DARPA_Logo_2010.png/220px-DARPA_Logo_2010.png" width="100"/></td>
-  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/U.S._Digital_Service_Logo.svg/1200px-U.S._Digital_Service_Logo.svg.png" width="100"/></td>
-  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Palantir_company_logo.png" width="120"/></td>
-  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mercedes-Benz_Star_2022.svg/1200px-Mercedes-Benz_Star_2022.svg.png" width="100"/></td>
-  <td align="center"><img src="https://www.boozallen.com/assets/home/images/social/booz-allen-homepage-social-thumbnail.png.img.png" width="140"/></td>
-</tr>
-</table>
-
-**💙 A huge thank you to my partners for their trust, innovation, and collaboration in shaping the future of technology!**  
-
-</div>
-
-
----
-
-### 🚀 **Want to Partner with Me?**  
-I am always open to collaborating with **companies, organizations, and innovators** working on **cutting-edge technology, cybersecurity, and engineering.**  
-
-🔹 **Why Partner with Me?**  
-✔ Expertise in **Cyber Sec, AI, Software and more**  
-✔ Proven track record with **government agencies & tech leaders**  
-✔ Passion for **disruptive innovations and projects**  
-
-📩 **For partnership inquiries, contact me at:**  
-
-<div align="center">
-
-[![Email Me](https://img.shields.io/badge/Email-Contact%20Me-1976D2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edonshumolli@proton.me)  
-
-</div>
-
----
-
-
-## 0x03 > Support My Work  
+## 0x02 > Support My Work  
 
 <div align="center">
 
