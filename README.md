@@ -1,12 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/5dc6c2f6-8390-4366-b49e-1640e644eccc)
 
-
----
-
 [![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FF00&pause=500&center=true&vCenter=true&width=1200&lines=$+Engineer+|+Security+Researcher+|+Developer+|+Threat+Hunter;)](https://git.io/typing-svg)
-
-## 👋 Hi there
-I'm **Edon**, an **Engineer**, **Security Researcher**, and **Innovator** with a passion for **cybersecurity**, **software development**, and **cutting-edge technologies**. My expertise spans **penetration testing**, **vulnerability analysis**, **reverse engineering**, and **mechatronics**. I contribute to high-impact projects and tech-driven solutions, pushing the boundaries of innovation and solving complex engineering challenges.
 
 ---
 
@@ -60,7 +54,7 @@ I'm **Edon**, an **Engineer**, **Security Researcher**, and **Innovator** with a
 </tr>
 </table>
 
-### **💙 A huge thank you to my partners for their trust, innovation, and collaboration in shaping the future of technology!**  
+**💙 A huge thank you to my partners for their trust, innovation, and collaboration in shaping the future of technology!**  
 
 </div>
 
@@ -95,6 +89,7 @@ I am always open to collaborating with **companies, organizations, and innovator
 
 💙 Every contribution helps me dedicate more time to cybersecurity research, development, and open-source projects.
 Your support is greatly appreciated! 🚀
+
 ---
 
 ### 💰 Crypto Donations  
