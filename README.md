@@ -48,14 +48,31 @@ Your support is greatly appreciated! 🚀
 <div align="center">
 
 <table>
-<tr>
-  <td align="center"><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=026" width="35"/><br>Bitcoin<br><code>bc1qg0r8fjne64jm7heyh3yzlxhj55ur74alxwg4hp</code></td>
-  <td align="center"><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=026" width="35"/><br>Ethereum<br><code>0xD0c37e6dc1f774FfE011AA7D19fC8a9560548a28</code></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://cryptologos.cc/logos/litecoin-ltc-logo.svg?v=026" width="35"/><br>Litecoin<br><code>ltc1qjdxq8pkwp33xre0dzgxh5pkgt8w0ay7wl7fpec</code></td>
-  <td align="center"><img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=026" width="35"/><br>Solana<br><code>7SD5n3YgvGQgiFutu11JwrAVy2eszBdYX2h5UU6eHVQr</code></td>
-</tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/128/color/btc.png" width="35"/><br>
+      Bitcoin<br>
+      <code>bc1qg0r8fjne64jm7heyh3yzlxhj55ur74alxwg4hp</code>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/128/color/eth.png" width="35"/><br>
+      Ethereum<br>
+      <code>0xD0c37e6dc1f774FfE011AA7D19fC8a9560548a28</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/128/color/ltc.png" width="35"/><br>
+      Litecoin<br>
+      <code>ltc1qjdxq8pkwp33xre0dzgxh5pkgt8w0ay7wl7fpec</code>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/128/color/sol.png" width="35"/><br>
+      Solana<br>
+      <code>7SD5n3YgvGQgiFutu11JwrAVy2eszBdYX2h5UU6eHVQr</code>
+    </td>
+  </tr>
 </table>
+
 
 </div>
