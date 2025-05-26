@@ -36,7 +36,8 @@
 <div align="center">
 
 [![PayPal](https://img.shields.io/badge/Support%20Me%20on-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/eshumolli)  
-[![Patreon](https://img.shields.io/badge/Support%20Me%20on-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/EdonShumolli)  
+[![Patreon](https://img.shields.io/badge/Support%20Me%20on-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/EdonShumolli)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Ko--fi-28a745?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/edonii)
 
 💙 Every contribution helps me dedicate more time to cybersecurity research, development, and open-source projects.
 Your support is greatly appreciated! 🚀
