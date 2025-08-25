@@ -1,4 +1,8 @@
-![banner](https://github.com/user-attachments/assets/5dc6c2f6-8390-4366-b49e-1640e644eccc)
+
+
+![Untitled design](https://github.com/user-attachments/assets/dfbba317-a00d-423b-977b-40825431d603)
+
+
 
 [![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FF00&pause=500&center=true&vCenter=true&width=1200&lines=$+Engineer+|+Security+Researcher+|+Developer+|+Contractor;)](https://git.io/typing-svg)
 
